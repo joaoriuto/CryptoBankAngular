@@ -1,5 +1,8 @@
 # CryptoBank
-
+<p align="center">
+<img  src="https://github.com/joaoriuto/CryptoBankAngular/blob/master/src/assets/Logo/cryptoMLogo.png?raw=true" /><br>
+<img width="400" src="https://repository-images.githubusercontent.com/258754619/f9fb5680-886e-11ea-9093-f17ef7f53e4c"/>
+</p>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server
